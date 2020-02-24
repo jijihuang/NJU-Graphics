@@ -1,0 +1,6 @@
+resetCanvas 100 100
+setColor 255 0 0
+drawEllipse 123 31 49 8 18
+saveCanvas output_1
+rotate 123 59 56 -30
+saveCanvas output_2

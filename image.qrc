@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/choose.png</file>
+        <file>image/Circle.png</file>
+        <file>image/color.png</file>
+        <file>image/Colorboard.png</file>
+        <file>image/create.png</file>
+        <file>image/Curve.png</file>
+        <file>image/edit.png</file>
+        <file>image/Ellipse.png</file>
+        <file>image/fill.png</file>
+        <file>image/Line.png</file>
+        <file>image/open.png</file>
+        <file>image/OpenFile.png</file>
+        <file>image/paintcan.png</file>
+        <file>image/paintingicon.png</file>
+        <file>image/palette.png</file>
+        <file>image/Pen.png</file>
+        <file>image/pencil.png</file>
+        <file>image/pencilcursor.png</file>
+        <file>image/polygon.png</file>
+        <file>image/quit.png</file>
+        <file>image/read.png</file>
+        <file>image/Rectangle.png</file>
+        <file>image/rubber.png</file>
+        <file>image/rubberMedium.png</file>
+        <file>image/rubberThick.png</file>
+        <file>image/rubberThin.png</file>
+        <file>image/save.png</file>
+        <file>image/tailor.png</file>
+        <file>image/timg.jpg</file>
+        <file>image/type.png</file>
+        <file>image/width.png</file>
+        <file>image/widthMedium.png</file>
+        <file>image/widthThick.png</file>
+        <file>image/widthThin.png</file>
+        <file>image/withdraw.png</file>
+        <file>image/youqitong.png</file>
+        <file>image/clip.png</file>
+        <file>image/clip2.png</file>
+    </qresource>
+</RCC>
